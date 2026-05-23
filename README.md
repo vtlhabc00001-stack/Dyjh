@@ -1,2 +1,1 @@
-# Dyjh
-Score
+
